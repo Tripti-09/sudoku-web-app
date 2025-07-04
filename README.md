@@ -2,7 +2,7 @@
 
 A beautiful, interactive Sudoku game built with React and styled with Tailwind CSS. Features a stunning pink gradient design, auto-save functionality, and intuitive gameplay.
 
-![Sudoku Web App Screenshot](https://via.placeholder.com/800x600/f8fafc/ec4899?text=Sudoku+Web+App)
+
 
 ## ✨ Features
 
