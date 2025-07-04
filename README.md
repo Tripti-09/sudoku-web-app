@@ -1,7 +1,3 @@
-# sudoku-web-app
-React JS | Web App | Tailwind CSS | Sudoku
-
-
 # 🌸 Sudoku Web App
 
 A beautiful, interactive Sudoku game built with React and styled with Tailwind CSS. Features a stunning pink gradient design, auto-save functionality, and intuitive gameplay.
