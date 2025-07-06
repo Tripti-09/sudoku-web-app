@@ -1,0 +1,6 @@
+{
+  "rootDirectory": "sudoku",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "framework": "vite"
+}
