@@ -413,12 +413,12 @@ const SudokuApp = () => {
           originalBoard={originalBoard}
         />
         
-        {isComplete && (
+        {/* {isComplete && (
           <div className="bg-gradient-to-r from-pink-500 to-rose-500 text-white rounded-full px-4 sm:px-6 py-2 sm:py-3 inline-flex items-center gap-2 shadow-lg mb-4 mx-auto block w-fit">
             <Trophy size={20} />
             <span className="font-semibold text-sm sm:text-base">Congratulations! Puzzle Complete!</span>
           </div>
-        )}
+        )} */}
         
         {/* <div className="text-xs sm:text-sm text-pink-600 mb-2 text-center">
           Use keyboard (1-9, arrows, backspace) • Game auto-saves ✨
